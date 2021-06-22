@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alessio Belli
 - 🌱 I’m currently studying Information Engineering at University of Trento
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://www.linkedin.com/in/alessio-belli-b15974161/
+- 📫 How to reach me: https://www.linkedin.com/in/alessio-belli-b15974161/ & alessio.belli6@gmail.com
 
 <!---
 alessioBelli/alessioBelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
