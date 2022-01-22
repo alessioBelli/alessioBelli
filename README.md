@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alessio Belli
-- 🌱 I’m currently studying Information Engineering at University of Trento
+- 🌱 I’m currently studying Artificial Intelligence Systems at University of Trento (Italy)
 - 📫 How to reach me: https://www.linkedin.com/in/alessio-belli-b15974161/ & alessio.belli6@gmail.com
 
 <!---
